@@ -1,2 +1,2 @@
 # MNIST-denoise
-Denoising MNIST with Autoencoder
+Autoencoders are cool
